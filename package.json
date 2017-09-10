@@ -1,6 +1,11 @@
 {
-  "devDependencies": {
-    "tslint-eslint-rules": "^4.1.1"
+  "name": "cet-codestyle-typescript",
+  "version": "0.0.1",
+  "author": "Nicolai Ertl",
+  "repository": "git@intranet.cet.local:7999/cet/cet-codestyle-typescript.git",
+  "license": "WTFPL",
+  "engines": {
+    "node": ">=8.0"
   },
   "dependencies": {
     "@angular/compiler": "4.2.1",
@@ -8,6 +13,7 @@
     "codelyzer": "~3.1.0",
     "rxjs": "5.0.1",
     "tslint": "^5.0.0",
+    "tslint-eslint-rules": "^4.1.1",
     "typescript": "^2.1.4",
     "zone.js": "0.8.4"
   }
