@@ -1,0 +1,34 @@
+{
+  "extends": [
+    "tslint-eslint-rules"
+  ],
+  "rulesDirectory": [
+    "node_modules/codelyzer"
+  ],
+  "rules": {
+    "angular-whitespace": [true, "check-interpolation", "check-pipe"],
+    "banana-in-box": true,
+    "component-class-suffix": true,
+    "component-selector": [true, "element", "sg", "kebab-case"],
+    "directive-class-suffix": true,
+    "directive-selector": [true, "attribute", "sg", "camelCase"],
+    "invoke-injectable": true,
+    "no-access-missing-member": true,
+    "no-attribute-parameter-decorator": true,
+    "no-forward-ref": true,
+    "no-input-rename": true,
+    "no-output-rename": true,
+    "object-curly-spacing": [true, "always"],
+    "pipe-naming": [true, "camelCase", "sg"],
+    "quotemark": [true, "single", "avoid-escape", "avoid-template"],
+    "template-to-ng-template": true,
+    "templates-no-negated-async": true,
+    "templates-use-public": true,
+    "use-host-property-decorator": true,
+    "use-input-property-decorator": true,
+    "use-life-cycle-interface": true,
+    "use-output-property-decorator": true,
+    "use-pipe-transform-interface": true,
+    "use-view-encapsulation": true
+  }
+}
