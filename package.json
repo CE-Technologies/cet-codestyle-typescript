@@ -4,6 +4,9 @@
   "author": "Nicolai Ertl",
   "repository": "git@intranet.cet.local:7999/cet/cet-codestyle-typescript.git",
   "license": "WTFPL",
+  "publishConfig": {
+    "registry":"http://intranet.cet.local:4873"
+  },
   "engines": {
     "node": ">=8.0"
   },
