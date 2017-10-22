@@ -104,6 +104,7 @@ cmake-build-debug/
 # IntelliJ
 out/
 .idea
+yarn.lock
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
