@@ -5,19 +5,21 @@
   "repository": "git@intranet.cet.local:7999/cet/cet-codestyle-typescript.git",
   "license": "WTFPL",
   "publishConfig": {
-    "registry":"http://intranet.cet.local:4873"
+    "registry": "http://intranet.cet.local:4873"
   },
   "engines": {
     "node": ">=8.0"
   },
+  "peerDependencies": {
+    "typescript": "2.4.2"
+  },
   "dependencies": {
-    "@angular/compiler": "^4.2.1",
-    "@angular/core": "^4.2.1",
-    "codelyzer": "^3.1.0",
+    "@angular/compiler": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "codelyzer": "^4.0.0",
     "rxjs": "^5.0.1",
     "tslint": "^5.0.0",
     "tslint-eslint-rules": "^4.1.1",
-    "typescript": "^2.1.4",
     "zone.js": "^0.8.4"
   }
 }
