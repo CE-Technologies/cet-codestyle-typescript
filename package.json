@@ -1,5 +1,5 @@
 {
-  "name": "cet-codestyle-typescript",
+  "name": "@cet/codestyle-typescript",
   "version": "0.0.3",
   "author": "Nicolai Ertl",
   "repository": "git@intranet.cet.local:7999/cet/cet-codestyle-typescript.git",
