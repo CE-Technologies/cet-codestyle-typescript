@@ -1,12 +1,9 @@
 {
   "name": "@cet/codestyle-typescript",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Nicolai Ertl",
-  "repository": "git@intranet.cet.local:7999/cet/cet-codestyle-typescript.git",
-  "license": "WTFPL",
-  "publishConfig": {
-    "registry": "http://intranet.cet.local:4873"
-  },
+  "repository": "git@github.com:CE-Technologies/cet-codestyle-typescript.git",
+  "license": "MIT",
   "engines": {
     "node": ">=8.0"
   },
