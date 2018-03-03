@@ -1,8 +1,8 @@
 {
   "name": "@cet/codestyle-typescript",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Nicolai Ertl",
-  "repository": "git@github.com:CE-Technologies/cet-codestyle-typescript.git",
+  "repository": "git@github.com:CE-Technologies/codestyle-typescript.git",
   "license": "MIT",
   "engines": {
     "node": ">=8.0"
